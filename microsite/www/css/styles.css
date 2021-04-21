@@ -1,0 +1,71 @@
+section{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 750px;
+    margin: auto;
+    background-color:#4D4D5F ;
+}
+.header{
+ width: 750px;
+ height: 150px;   
+ margin-left: 10%;
+ margin-right: 10%;
+}
+html{
+    background-color:#040430;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ p{ 
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 25px;
+    
+    width: 780px;
+    margin: auto;
+    background-color:#4D4D5F ;
+}
+p:first-child{
+    padding-top:-15px
+}
+p:last-child{
+    padding-bottom: 25px;
+}
+div{
+    padding-top: 50px;
+    padding-left: 10px;
+    font-size: 40px;
+}
+h1{
+font-size: 65px;
+font-weight: bold;
+text-align: center;
+}
+.intro{
+    background-image:url("../images/lightning-1.svg") ;
+    border: none;
+}
+.steering{
+    background-image:url("../images/hurricane .svg") ;
+
+}
+.intensity{
+    background-image:url("../images/waves.svg") ;
+
+}
+.climate{
+    background-image:url("../images/lightning-2.svg") ;
+
+}
+.extremes{
+    background-image:url("../images/radar.svg") ;
+
+}
+.trends{
+    background-image:url("../images/trees.svg") ;
+
+}
+.sources{
+    background-image:url("../images/waves-2.svg") ;
+
+}
